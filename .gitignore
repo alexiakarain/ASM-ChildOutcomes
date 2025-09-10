@@ -1,0 +1,13 @@
+# Logs & artifacts
+*.log
+*.smcl
+*.stpr
+
+# Data (don’t commit real data)
+*.dta
+*.sav
+outputs/
+
+# OS junk
+.DS_Store
+Thumbs.db
